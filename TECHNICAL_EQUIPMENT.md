@@ -287,7 +287,7 @@ This document lists all technical equipment and tools used in the software devel
 ### Browser Extensions
 - **React Developer Tools**: React component inspection
 - **Vue.js devtools**: Vue component inspection
-- **Redux DevTools**: Redux state management (also mentioned in performance section for debugging)
+- **Redux DevTools**: Redux state management inspection
 - **Wappalyzer**: Technology profiler
 
 ---
