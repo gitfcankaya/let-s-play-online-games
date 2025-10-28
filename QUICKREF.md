@@ -105,7 +105,7 @@ GET    /statistics/top-games - Top games
     "DefaultConnection": "Server=...;Database=GamePlatformDb;..."
   },
   "Jwt": {
-    "Key": "YourSecretKey",
+    "Key": "YourSuperSecretKeyThatShouldBeAtLeast32CharactersLongForSecurity!",
     "Issuer": "GamePlatformAPI",
     "Audience": "GamePlatformClients"
   }
@@ -192,14 +192,14 @@ tail -f logs/app.log
 ```bash
 curl -X POST http://localhost:5000/api/auth/register \
   -H "Content-Type: application/json" \
-  -d '{"username":"user","email":"user@test.com","password":"pass123"}'
+  -d '{"username":"user","email":"user@test.com","password":"SecureP@ssw0rd123!"}'
 ```
 
 ### Login
 ```bash
 curl -X POST http://localhost:5000/api/auth/login \
   -H "Content-Type: application/json" \
-  -d '{"email":"user@test.com","password":"pass123"}'
+  -d '{"email":"user@test.com","password":"SecureP@ssw0rd123!"}'
 ```
 
 ### Get Games
