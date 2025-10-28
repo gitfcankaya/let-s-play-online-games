@@ -1,0 +1,12 @@
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/bin/Debug/net9.0/GamePlatform.Core.deps.json
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/bin/Debug/net9.0/GamePlatform.Core.dll
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/bin/Debug/net9.0/GamePlatform.Core.pdb
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/GamePlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/GamePlatform.Core.AssemblyInfoInputs.cache
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/GamePlatform.Core.AssemblyInfo.cs
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/GamePlatform.Core.csproj.CoreCompileInputs.cache
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/GamePlatform.Core.sourcelink.json
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/GamePlatform.Core.dll
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/refint/GamePlatform.Core.dll
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/GamePlatform.Core.pdb
+/home/runner/work/let-s-play-online-games/let-s-play-online-games/backend/GamePlatform.Core/obj/Debug/net9.0/ref/GamePlatform.Core.dll
