@@ -232,7 +232,8 @@ This document lists all technical equipment and tools used in the software devel
 ### Game-Specific Hosting
 - **Photon**: Multiplayer oyun sunucusu
 - **PlayFab**: Backend platform (Microsoft)
-- **GameSparks**: Game backend services
+- **Amazon GameLift**: AWS oyun sunucusu servisi
+- **Unity Gaming Services**: Unity entegre backend servisleri
 
 ## 17. Güvenlik Araçları / Security Tools
 
@@ -277,14 +278,16 @@ This document lists all technical equipment and tools used in the software devel
 - **pyenv**: Python version management
 
 ### Terminal Tools
-- **iTerm2 / Hyper / Windows Terminal**: Modern terminal
+- **iTerm2**: macOS terminal emulator
+- **Hyper**: Cross-platform Electron-based terminal
+- **Windows Terminal**: Modern terminal for Windows
 - **Oh My Zsh**: Zsh framework
 - **tmux**: Terminal multiplexer
 
 ### Browser Extensions
-- **React Developer Tools**: React debugging
-- **Vue.js devtools**: Vue debugging
-- **Redux DevTools**: Redux debugging
+- **React Developer Tools**: React component inspection
+- **Vue.js devtools**: Vue component inspection
+- **Redux DevTools**: Redux state management (also mentioned in performance section for debugging)
 - **Wappalyzer**: Technology profiler
 
 ---
