@@ -270,3 +270,9 @@ For issues and questions, please open an issue on GitHub.
 ---
 
 Made with ❤️ for gamers worldwide 🎮
+# let-s-play-online-games
+let's play online games
+
+## Dokümantasyon / Documentation
+
+- [Teknik Ekipmanlar / Technical Equipment](TECHNICAL_EQUIPMENT.md) - Yazılım geliştirme sürecinde kullanılan tüm teknik araçlar ve ekipmanlar
